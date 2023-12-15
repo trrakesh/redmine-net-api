@@ -1,12 +1,11 @@
 
-![Redmine .NET Api](https://github.com/zapadi/redmine-net-api/workflows/CI%2FCD/badge.svg?branch=master)
-![Appveyor last build status](https://ci.appveyor.com/api/projects/status/github/zapadi/redmine-net-api?branch=master&svg=true&passingText=master%20-%20OK&failingText=ups...)
-[![NuGet package](https://img.shields.io/nuget/v/redmine-api.svg)](https://www.nuget.org/packages/redmine-api)
-![Nuget](https://img.shields.io/nuget/dt/redmine-net-api)
-<a href="https://www.buymeacoffee.com/vXCNnz9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-yellow.png" alt="Buy Me A Coffee" height="37" ></a>
+![Redmine .NET Api](badge.svg)
+![Appveyor last build status](master.svg)
+![NuGet package](nuget.svg)
+![Nuget](download.svg)
 
 
-# redmine-net-api   ![redmine-net-api logo](https://github.com/zapadi/redmine-net-api/blob/master/logo.png) 
+# redmine-net-api   ![redmine-net-api logo](logo.png) 
 
 redmine-net-api is a library for communicating with a Redmine project management application.
 
@@ -54,7 +53,7 @@ A good way to get started (flow):
 4. Push commits and create a Pull Request (PR) to redmine-net-api.
 
 ## License
-[![redmine-net-api](https://img.shields.io/hexpm/l/plug.svg)]()
+[![redmine-net-api](apache.svg)]()
 
 The API is released under Apache 2 open-source license. You can use it for both personal and commercial purposes, build upon it and modify it.
 

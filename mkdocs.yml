@@ -1,5 +1,5 @@
-site_name: ${{values.name | dump}}
-site_description: ${{values.description | dump}}
+site_name: redmine-net-api
+site_description: redmine-net-api
 
 nav:
   - Introduction: index.md
