@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: redmine-net-api
+  annotations:
+    github.com/project-slug: trrakesh/redmine-net-api
+spec:
+  type: other
+  lifecycle: unknown
+  owner: trrakesh
