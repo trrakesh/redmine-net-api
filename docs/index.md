@@ -6,7 +6,7 @@
 <a href="https://www.buymeacoffee.com/vXCNnz9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-yellow.png" alt="Buy Me A Coffee" height="37" ></a>
 
 
-# redmine-net-api   ![redmine-net-api logo](https://github.com/zapadi/redmine-net-api/blob/master/logo.png) 
+# redmine-net-api   ![redmine-net-api logo](logo.png) 
 
 redmine-net-api is a library for communicating with a Redmine project management application.
 
