@@ -4,6 +4,7 @@ metadata:
   name: redmine-net-api
   annotations:
     github.com/project-slug: trrakesh/redmine-net-api
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
